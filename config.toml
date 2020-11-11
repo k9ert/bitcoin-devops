@@ -22,7 +22,7 @@ lastmod = ["lastmod", ":git", "date"]
      unsafe = true
 
 [params]
-  name = "Kim Neunert"
+  name = "k9ert"
   description = "DevOps for Bitcoin related Projects"
 
   [params.style]
