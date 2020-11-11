@@ -1,5 +1,5 @@
 +++ 
-title = "Kim Neunert" 
+title = "k9ert" 
 weight = 0 
 date = "2020-03-03"
 
@@ -7,7 +7,7 @@ date = "2020-03-03"
 #company = "Okkur Labs"
 
 #reports_to = "CTO" 
-lives_in = "Munich, Germany"
+lives_in = "Germany"
 scope = [ "Agile Practitioner", "DevOps Engineer ", "Bitcoin Believer", "PGP-fingerprint: ECC0B4ABD74E716F5ADE095228B358A8843B0109" ]
 
 [[icons]] 
@@ -31,9 +31,9 @@ text = "Keybase"
 url = "https://keybase.io/k9ert"
 
 [asset] 
-image = "kim-portrait.png" 
+image = "k9ert-portrait.png" 
 +++
 
 <p>I've worked 10 years for a huge Software-Vendor supporting the organisation in their software creation process. As such i've worked in many roles including Developer, Support Engineer, Product Owner, Manager, Tech Lead and Architect.
-Now i want to bring my expertise to interesting Bitcoin-Project!</p>
+Now i'm bringing my expertise to interesting Bitcoin-Projects!</p>
 Contact me!

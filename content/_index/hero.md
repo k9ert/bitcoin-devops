@@ -6,7 +6,7 @@ weight = 50
 background = "light" # can influence the text color
 particles = false
 
-title = "Kim Neunert"
+title = "k9ert"
 subtitle = "Bitcoin Devops"
 color = "light" # can influence the text color
 
